@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rzrshade.com/sitemap.xml
